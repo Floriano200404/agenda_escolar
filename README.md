@@ -68,7 +68,7 @@ funcionalidade aplicada ao tema.
 
 ```bash
 # 1. Clonar o repositório
-git clone <LINK_DO_REPOSITORIO>
+git clone https://github.com/Floriano200404/agenda_escolar.git
 cd agenda_escolar
 
 # 2. Baixar as dependências
