@@ -10,8 +10,8 @@ mostra de forma rápida o que está pendente, atrasado e prestes a vencer.
 
 ## 👥 Integrantes da dupla
 
-- _Integrante 1: (preencher)_
-- _Integrante 2: (preencher)_
+- Floriano Vieira de Araujo Neto
+- Athos Moreno Ribeiro
 
 ---
 
@@ -130,7 +130,7 @@ lib/
 
 ## 🎥 Vídeo de apresentação
 
-_Link do YouTube (não listado): (preencher)_
+Link do YouTube (não listado): https://youtu.be/XYkg35-tvdA
 
 ---
 
